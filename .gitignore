@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 api_keys/
+.env
 
 # Distribution / packaging
 .Python
