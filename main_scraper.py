@@ -22,8 +22,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s')
 # TODO: IMPORTANT!
 # You will set these secret keys in the final step right before running the script.
 # For now, the script knows to look for them.
-SERPAPI_KEY = "cc6a3d2911b5f97573b77ab8e50f06ab1900c6fd4560d189dd52eb77698702ae"
-GOOGLE_SHEET_ID = "1RLDJZRj5XvhUl5FMbIUFsdaXZWvDPJ1Hktl9qNyZKEg"
+SERPAPI_KEY = "API_KEY"
+GOOGLE_SHEET_ID = "GOOGLE_SHEET_ID"
 GOOGLE_CREDENTIALS_FILE = 'google_creds.json' # This is the secret key file for Google.
 
 # What do you want to search for? Change this to anything you want!
